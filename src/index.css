@@ -79,3 +79,9 @@ section:last-of-type {
   line-height: 150%;
   max-width: 30rem;
 }
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  box-shadow: 0 3px 7px #918e9b;
+}
